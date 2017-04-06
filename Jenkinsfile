@@ -1,5 +1,5 @@
 // Script //
 node {
-	checkout scm ①
+	checkout scm
 	/* .. snip .. */
 }
